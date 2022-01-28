@@ -1,4 +1,4 @@
-#Retrosprites
+# Retrosprites
 
 This shader imitates the Psuedo-3d directional sprites used in many early to mid 90's first person games like Doom, Daggerfall, Marathon, Hexen, etc. Rather than use 3d models for enemies, these games used 2d billboards which would change their image based on the relative postions of the viewer and the enemy. This shader was built for VRChat, and as such was made for the built-in render pipeline with single-pass stereo VR support in mind and some game specific optimizations like changing billboarding behavior in mirrors.
 
