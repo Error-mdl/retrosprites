@@ -26,6 +26,6 @@ enabled with these streams, in order: Position, Color, UV, Center, and Velocity.
 Light Probes should be set to blend probes if lighting is enabled.
 
 
-#Credits
+# Credits
 
 Example sprites from the [Freedoom](https://github.com/freedoom/freedoom) project, and are under the license (COPYING.adoc) found in the example assets texture folder.
